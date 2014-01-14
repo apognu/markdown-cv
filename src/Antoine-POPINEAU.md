@@ -1,6 +1,6 @@
 # Antoine POPINEAU
 
-## System infrastructure architect and devops
+## System infrastructure _architect_ and _devops_
 
 [aside]
 
@@ -28,9 +28,9 @@ My main skillset is:
 
 [experience smile clear]
 
-## Professional Experience
+## Professional _experience_
 
-### Smile, Open Source Solutions - Aug. 2010 / now
+### Smile, Open Source Solutions _Aug. 2010 / now_
 #### Systems and networks engineer
 
 Technically-wise, here is a sample of the subject I had to handle at Smile:

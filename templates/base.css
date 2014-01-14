@@ -54,12 +54,20 @@ h2{
 	border-bottom:1px solid #ccc;
 }
 
+h2 em {
+  color: #6980AE;
+}
+
 h3{
 	font-size:13px;
 }
 
+h3 em {
+  font-size: 0.6em;
+}
+
 h4{
-	font-size:12px;
+	font-size:10px;
 	margin: 0.5em 0;
 }
 
