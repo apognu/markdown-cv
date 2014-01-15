@@ -37,9 +37,9 @@ end
 
 # replace text such as [block] with <div class="block">
 def add_divs (html)
-	html.gsub!(/^<p>\[(.*?)\/\]/m, '<div class="\1"></div>')
-	html.gsub!(/^<p>\[\/(.*?)\]/m, '</div>')
-	html.gsub!(/^<p>\[(.*?)\]/m, '<div class="\1">')
+	html.gsub!(/^<p>\[(.*?)\/\]<\/p>/m, '<div class="\1"></div>')
+	html.gsub!(/^<p>\[\/(.*?)\]<\/p>/m, '</div>')
+	html.gsub!(/^<p>\[(.*?)\]<\/p>/m, '<div class="\1">')
 	html
 end
 
