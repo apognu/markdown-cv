@@ -29,7 +29,6 @@ My main skillset is:
 
 [/intro]
 
-
 ## _Expérience_ professionnelle
 
 [experience smile left]
@@ -55,6 +54,48 @@ Réfection totale de l'infrastructure réseau interne du campus afin de pouvoir 
 Dispense de formations sur le cursus Linux proposé par l'école à ses étudiants.
 
 [/experience]
+
+## _Skills_
+
+[skills]
+
+[skillgroup]
+
+### Systèmes
+
+ - Debian, Red Hat
+ - Varnish, Apache, nginx
+ - MySQL, PostgreSQL, OpenLDAP
+ - FreeRADIUS, Kerberos
+ - LXC, OpenVZ, KVM, docker, vagrant
+ - bind
+
+[/skillgroup]
+
+[skillgroup]
+
+### Infrastructure
+
+ - Puppet / Chef
+ - Foreman
+ - Cisco IOS / ASA
+ - Conception réseau
+ - Haute disponibilité
+
+[/skillgroup]
+
+[skillgroup]
+
+### Développement
+
+ - Shell scripting
+ - Ruby
+ - Python
+ - PHP
+
+[/skillgroup]
+
+[/skill]
 
 ## Parcours _académique_
 
