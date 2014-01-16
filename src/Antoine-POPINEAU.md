@@ -68,7 +68,8 @@ Dispense de formations sur le cursus Linux proposé par l'école à ses étudian
  - MySQL, PostgreSQL, OpenLDAP
  - FreeRADIUS, Kerberos
  - LXC, OpenVZ, KVM, docker, vagrant
- - bind
+ - bind, dnsmasq, isc-dhcp-server
+ - Fabric, Capistrano
 
 [/skillgroup]
 
