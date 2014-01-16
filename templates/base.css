@@ -23,6 +23,11 @@ p, li, .block, .aside{
 
 /* Typography */
 
+html {
+  border-top: 6px solid #6980AE;
+  padding-top: 10px;
+}
+
 body{
 	font-family: 'Open Sans', 'Roboto';
   font-weight: 300;
@@ -59,7 +64,7 @@ h2{
 	padding-bottom:0.3em;
 	margin-top:3.4em;
 	margin-bottom:1.4em;
-  border-bottom: 2px solid #717171;
+  border-bottom: 2px solid #6980AE;
   clear: both;
 }
 
@@ -74,6 +79,10 @@ h3{
 
 h3 em {
   font-size: 0.6em;
+  float: right;
+  background: #cacaca;
+  padding: 1px 4px;
+  color: #474747;
 }
 
 h4{
@@ -175,4 +184,16 @@ div.experience h4, div.academic h4 {
   color: #787878;
   font-size: 9px;
   margin-top: 0;
+}
+
+div.footer {
+  padding-top: 30px;
+}
+
+div.footer p {
+  position: relative;
+  left: -12.5px;
+  border-top: 6px solid #6980AE;
+  padding-top: 5px;
+  text-align: center;
 }

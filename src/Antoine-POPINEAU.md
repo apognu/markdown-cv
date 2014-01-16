@@ -4,16 +4,17 @@
 
  ![Antoine POPINEAU](../media/antoine.jpg)
 
+ - Région parisienne
  - antoine@akegroup.org
- - GitHub: apognu
+ - GitHub: [apognu](http://github.com/apognu)
 
 [/contact]
 
 [intro left]
 
-## System infrastructure _architect_ and _devops_
+## _Architecte_ infrastructures systèmes et _devops_
 
-I am a junior information infrastructure architect, keen on automation and productivity improvements on Linux-based operating systems.
+Je suis architecte dans les infrastructures des systèmes d'information, spécialisé dans les technologies Open Source, avec un intérêt tout particulier pour l'amélioration de la productivité des processus de production et d'exploitation.
 
 [skillset]
 
@@ -22,7 +23,7 @@ My main skillset is:
  - Gestion des systèmes Linux
  - Conception d'infrastructures en haute disponibilité
  - Industrialisation des déploiements
- - Automatisation des processus
+ - Automatisation des processus de production et d'exploitation
 
 [/skillset]
 
@@ -31,7 +32,7 @@ My main skillset is:
 
 ## _Expérience_ professionnelle
 
-[experience smile clear left]
+[experience smile left]
 
 ### Smile, Open Source Solutions _Aug. 2011 / now_
 #### Ingénieur systèmes et infrastructures
@@ -70,9 +71,15 @@ Membre du Laboratoire Linux et directeur du Laboratoire Game Development, j'ai a
 
 [academic supinfo right]
 
-### TOEIC _candidat libre_
-#### 2007, certification
+### TOEIC _avril 2007_
+#### Candidat libre
 
-Obtenu avec 985 points sur 990.
+Certification obtenue avec 985 points sur 990 (99.5 %).
 
 [/experience]
+
+[footer clear]
+
+Fièrement généré via Markdown
+
+[footer]
