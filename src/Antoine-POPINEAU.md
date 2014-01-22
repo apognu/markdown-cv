@@ -51,7 +51,7 @@ J'ai également assuré le rôle de formateur aux technologies UNIX dans la bran
 
 Réfection totale de l'infrastructure réseau interne du campus afin de pouvoir absorber la quantité croissante d'étudiants présents, établissement de l'interconnexion avec les autres campus du groupe. Mise en place de services informatiques internes (ticketting, serveur de fichier).
 
-Dispense de formations sur le cursus Linux proposé par l'école à ses étudiants.
+Dispense de formations sur le cursus Administration Linux proposé par l'école à ses étudiants.
 
 [/experience]
 
@@ -65,11 +65,11 @@ Dispense de formations sur le cursus Linux proposé par l'école à ses étudian
 
  - Debian, Red Hat
  - Varnish, Apache, nginx
- - MySQL, PostgreSQL, OpenLDAP
+ - MySQL, MariaDB, Galera, PostgreSQL
+ - OpenLDAP
  - FreeRADIUS, Kerberos
  - LXC, OpenVZ, KVM, docker, vagrant
  - bind, dnsmasq, isc-dhcp-server
- - Fabric, Capistrano
 
 [/skillgroup]
 
@@ -93,6 +93,7 @@ Dispense de formations sur le cursus Linux proposé par l'école à ses étudian
  - Ruby
  - Python
  - PHP
+ - Fabric, Capistrano
 
 [/skillgroup]
 
