@@ -6,7 +6,7 @@ require "pdfkit"
 task :default => ['show']
 
 task :show => [:build] do
-	sh 'open build/*.pdf'
+	sh 'xdg-open build/*.pdf'
 end
 
 task :build do
